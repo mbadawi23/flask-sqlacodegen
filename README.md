@@ -27,3 +27,6 @@ git clone https://github.com/ksindi/flask-sqlacodegen.git
 cd flask-sqlacodegen/
 python setup.py install
 ```
+
+## Note to self
+* I forked `sqlacodegen` to add support for types available in `sqlalchemy_utils`. I.e. `LtreeType`.
